@@ -1,0 +1,7 @@
+@article{REPO-223,
+    author = "Yang, Z. and Shrivastava, A. K. and Leung, T. K.",
+    journal = "IEEE Transactions on Cybernetics",
+    pages = "1-12",
+    title = "{Regularized Gaussian Mixture Model for High-Dimensional Clustering}",
+    year = "2018"
+}
