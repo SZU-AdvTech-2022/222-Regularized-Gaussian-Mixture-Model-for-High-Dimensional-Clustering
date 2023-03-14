@@ -1,4 +1,4 @@
-@article{REPO-223,
+@article{REPO-222,
     author = "Yang, Z. and Shrivastava, A. K. and Leung, T. K.",
     journal = "IEEE Transactions on Cybernetics",
     pages = "1-12",
